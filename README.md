@@ -1,4 +1,10 @@
 # Pet-Adoption-Agency-Database
-   User will be able to actively keep up with their pet's health by tracking their vaccines and appointments with their vets.
-   The user will be able to find their pet according to their preferences.
-   The user will also be able to put various animals up for adoption, re-home them or even if they're strays.
+
+  1. The user will be able to put various animals up for adoption.
+  2. The user can view available pets that are up for adoption.
+  3. The user will have access to the new owner's name and owner's  information in-case further communication is needed.
+  4. The user can be able to follow up on the recently adopted pets if they were re-homed through their contacts.
+  
+
+
+   
